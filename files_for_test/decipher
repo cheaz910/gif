@@ -1,0 +1,42 @@
+Logical Screen Descriptor:
+	Header:GIF89a
+	Width=30; Height=30
+	Global Table:False
+	Color Resolution:000
+	Is global table sorted:False
+	Global table size:2
+	Index of background color:00
+	Ratio:00
+
+Program Extension NETSCAPE:
+    	Application id:NETSCAPE
+	Application code:2.0
+
+Frame 0:
+	Coordinates of the left top corner:(0,0)
+	Width=30; Height=30
+	Is local table:True
+	Is interplace:True
+	Is sorted color table:True
+	Size of local color table:256
+	Is graphic extension:True
+Graphic Extension of Frame 0:
+	Disposal method:000
+	User input flag:0
+	Transparency flag:0
+	Number of transparency color:112	Delay:0
+
+
+Frame 1:
+	Coordinates of the left top corner:(0,0)
+	Width=30; Height=30
+	Is local table:True
+	Is interplace:True
+	Is sorted color table:True
+	Size of local color table:256
+	Is graphic extension:True
+Graphic Extension of Frame 1:
+	Disposal method:000
+	User input flag:0
+	Transparency flag:0
+	Number of transparency color:112	Delay:0
